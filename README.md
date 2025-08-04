@@ -21,7 +21,7 @@ A modern, clean, and responsive Todo application built with React and Zustand. T
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone [<this-repo-url>](https://github.com/Harsh-uu/todo-assignment.git)
+   git clone https://github.com/Harsh-uu/todo-assignment.git
    cd assessment-todo
    ```
 2. Install dependencies:
